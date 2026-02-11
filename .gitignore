@@ -1,8 +1,9 @@
-configstore
-gcloud
-gh-dash
-github-copilot
-raycast
-yarn
-zed
-.DS_Store
+# Ignore everything by default
+*
+
+# Explicitly allow what we want to track
+!.gitignore
+!nvim/
+!nvim/**
+!opencode/
+!opencode/**
