@@ -80,6 +80,10 @@ Based on the changes, generate a PR description:
 - [Key change 1]
 - [Key change 2]
 
+## How to test
+
+[What feature flags need to be enabled if any, where to navigate to to try out the feature]
+
 ## Step 6: Final Checklist
 
 ```markdown
