@@ -161,4 +161,4 @@ Closes STU2-2532
 - If no issue ID in branch name, omit the closes statement
 - Feature flag format: inline code (backticks), not quoted
 - DO NOT push until prompted
-- For visibility, add a note in italics "Generated using the pr-description skill from the agent-skills repo", with a link.
+- For visibility, add a note in italics "Generated using the pr-description skill from the agent-skills repo", with a link (https://github.com/SenecaLabs/agent-skills/blob/main/skills/pr-description/SKILL.md)
