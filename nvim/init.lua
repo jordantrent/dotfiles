@@ -19,6 +19,7 @@ require ("plugins.lazygit")
 require ("plugins.lspconfig")
 require ("plugins.blink-cmp")
 require ("plugins.todo-comments")
+require ("plugins.git-signs")
 
 vim.api.nvim_create_autocmd('FileType', {
   pattern = {
@@ -31,3 +32,4 @@ vim.api.nvim_create_autocmd('FileType', {
     vim.treesitter.start(args.buf)
   end,
 })
+
